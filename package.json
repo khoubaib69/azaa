@@ -1,0 +1,17 @@
+{
+  "name": "agil",
+  "version": "1.0.0",
+  "description": "AGIL HACKTHON APP",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 9013"
+  },
+  "keywords": [
+    "agil"
+  ],
+  "author": "khoubaib Boughalmi",
+  "license": "khoubaib Boughalmi",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
